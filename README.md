@@ -1,2 +1,2 @@
 # elastic-ltr
-Elastic LTR Implementation
+Elastic Learning to rank Implementation
